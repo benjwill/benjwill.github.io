@@ -37,7 +37,7 @@ function randInt(min, max) {
     
     
         if(shape == shapes[0]){
-            document.getElementById("shape").style.borderRadius = "50%";
+            document.getElementById("shape").style.borderRadius = "100%";
         }
         else {
             document.getElementById("shape").style.borderRadius = "0%";
